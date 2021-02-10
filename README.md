@@ -14,7 +14,7 @@ ___
 
 - **Libraries and tools**: NumPy, Pandas, Matplotlib, SQLAlchemy, SQLite, PySpark, scikit-learn, SciPy, PyMongo, Graphviz, dplyr, ggplot2
 
-- **Visulization tool**: Tableau
+- **Visualization tool**: Tableau
 ___
 
 ### Find me here 📫
