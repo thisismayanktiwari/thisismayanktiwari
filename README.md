@@ -12,9 +12,9 @@ ___
 
 - **Programming languages**: Python, R, SQL
 
-- **Libraries and tools**: NumPy, Pandas, Matplotlib, SQLAlchemy, SQLite, PySpark, scikit-learn, SciPy, PyMongo, Graphviz, dplyr, ggplot2
+- **Libraries and tools**: Snowflake, WhereScape, NumPy, Pandas, Matplotlib, SQLAlchemy, SQLite, PySpark, scikit-learn, SciPy, PyMongo, Graphviz, dplyr, ggplot2
 
-- **Visualization tool**: Tableau
+- **Visualization tool**: Tableau, Power BI
 ___
 
 ### Find me here 📫
