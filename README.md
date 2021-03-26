@@ -19,11 +19,7 @@ ___
 
 ### Find me here 📫
 
-[<img target="_blank" src="https://raw.githubusercontent.com/thisismayanktiwari/Intro/main/Linkedin.svg" width=25 height=25>](https://www.linkedin.com/in/thisismayanktiwari/)
-
-[<img target="_blank" src="https://raw.githubusercontent.com/thisismayanktiwari/Intro/main/Gmail.svg" width=25 height=25>](mailto:mayanktiwari146@gmail.com)
-
-[<img target="_blank" src="https://raw.githubusercontent.com/thisismayanktiwari/Intro/main/Tableau.svg" width=23 height=23>](https://public.tableau.com/profile/mayank.tiwari1582#!/?newProfile=&activeTab=0)
+[<img target="_blank" src="https://raw.githubusercontent.com/thisismayanktiwari/Intro/main/Linkedin.svg" width=25 height=25>](https://www.linkedin.com/in/thisismayanktiwari/)  [<img target="_blank" src="https://raw.githubusercontent.com/thisismayanktiwari/Intro/main/Gmail.svg" width=25 height=25>](mailto:mayanktiwari146@gmail.com)  [<img target="_blank" src="https://raw.githubusercontent.com/thisismayanktiwari/Intro/main/Tableau.svg" width=23 height=23>](https://public.tableau.com/profile/mayank.tiwari1582#!/?newProfile=&activeTab=0)
 
 <!-- ### Hi there 👋
 
