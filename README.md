@@ -2,7 +2,7 @@
 
 ### About me
 
-**Currently I am:** A graduate student at New York University (NYU) studying Management of Technology with a concentration in Data Analytics. 
+**Currently I am:** A recent graduate from New York University (NYU). I majored in Management of Technology with a concentration in Data Analytics. 
 
 **How I started:**
 My data science journey began in early 2020 when I took my first business analytics class at NYU and was astonished by the stunning possiblities that a seemingly mundane dataset holds. Since that day, I have not looked back and have been constantly working at expanding my knowledge and skillset in this extraordinary field.
